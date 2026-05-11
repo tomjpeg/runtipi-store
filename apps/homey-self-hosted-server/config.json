@@ -2,7 +2,7 @@
   "name": "Homey Self-Hosted Server",
   "id": "homey-self-hosted-server",
   "available": true,
-  "short_desc": "Run Homey Self-Hosted Server on your own Linux host.",
+  "short_desc": "Run homey self-hosted server on your own host.",
   "author": "Athom B.V.",
   "port": 4859,
   "categories": [
